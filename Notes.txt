@@ -1,0 +1,148 @@
+ipython
+display images instead of just printing results.
+execute shell commands with !
+use os shell results in python to do some processing. hybrid scripts
+get help, debug, use wildcards to get variable names,
+make note, edit, redo, etc.
+save as python file or ipy file
+interactive notebooks - share
+html markdown
+even include videos
+Latex
+
+use d3js
+copy paste python
+load python from a url
+
+nbconvert to html or presentation
+
+blog the notebook!
+
+@test
+
+%sql
+
+
+
+python
+scikitlearn
+numpy
+scipy
+pandas
+matplotlib
+re
+csv
+beautiful soup
+lxml
+urllib2
+base64
+scrapy
+binascii
+image
+hashlib
+mysqldb
+os
+vtk
+maths
+collections
+datetime
+itertools
+request
+ipython
+nltk
+random
+
+import urllib
+u = urllib.urlopen('http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=22')
+data = u.read()
+
+from xml.etree.ElementTree import parse
+doc = parse('file.xml')
+
+for bus in doc.findall('bus'):
+    lat = float(bus.findtext('lat'))
+if direction.startswith('North'):
+
+looping
+import time
+while True:
+	function()
+	time.sleep(60)
+
+print '-' * 10 # underline
+
+# Read only
+bus = ('id4', 456, 78.57)
+id = bus[0]
+
+id, dist, lat = bus
+
+bus = {
+	'id' : 'id4'
+}
+bus['id']
+
+min, max, sorted
+
+try:
+	n = int(x)
+except ValueError:
+	n = 0
+
+min(map,key = lambda k: map[k])
+squares = [x*x x in nums if x > 0]
+addrs = [hole['address'] for hole in holes if 'CLARK' in hole['address']]
+
+from collections import Counter
+tab = Counter(addrs)
+tab.most_common(10) # show 10 most common values
+
+from itertools import groupby
+
+from collections import defaultdict 	# for indexing
+zipindex = defaultdict(list)
+zipindex['1'].append(1)
+zipindex['1'].append(2)
+zipindex['2'].append(1)
+zipindex['2'].append(2)
+...
+
+or in a for loop,
+zipindex[hole['addrs']].append(hole)
+len(zipindex['2640']) # number of holes in that zip code
+
+
+
+This is great! Love the energy in this talk and there is lots of great information. Just wanted to point out a minor issue that when fixed actually backs up what she is saying even better at minute: 5:00. The summation code x += total * total is assigning zero squared twenty million times. It should actually read  total += x*x. This will result in a correct summation and averages 37.7s per loop on my 4 year old laptop. That is significantly slower than the 1.22s shown in the video. Also, the numpy_array should be defined as numpy_array = np.arange(20000000, dtype=np.int64) otherwise an overflow occurs which slows things down and gives an incorrect result. Changing that line results in an average of 13.5 ms per loop on my laptop. She was spot on regarding the speed difference and these couple changes really point them out.
+
+dataframe.median()
+dataframe.plot()
+dataframe.median().plot(kind='bar')
+column_slice = dataframe[['col1','col4']]
+first_three_rows = column_slice[:3]
+df[df['col1'] < 50] # rows where col1 < 50
+df.head()
+df['daily_foo'] = foo_df['hourly_foo'].resample('D', how='mean')
+D, 2D, etc
+
+scikitlearn accepts pandas df
+
+ask questions before looking into the data. else, what you see might affect your viewpoint. - Julia Evans talk
+
+
+https://www.youtube.com/watch?v=hqOsfS3dP9w
+scikit-image
+super-resolution, signal processing, denoising, interpolation
+
+to check
+https://www.youtube.com/watch?v=w26x-z-BdWQ
+https://www.youtube.com/watch?v=LFDAQfN0L9k
+https://www.youtube.com/watch?v=qbYYamU42Sw
+https://www.youtube.com/watch?v=9uq3w6JJS00
+https://www.youtube.com/watch?v=26wgEsg9Mcc
+https://www.youtube.com/watch?v=CLbeDjAFkB4
+https://www.youtube.com/watch?v=9oyr0mocZTg
+https://www.youtube.com/watch?v=8T-sQztK6uc
+https://www.youtube.com/watch?v=8kV0b0KhaMQ
+https://www.youtube.com/watch?v=nRHBdkxVn48
+https://www.youtube.com/watch?v=wsczq6j3_bA
