@@ -6,3 +6,8 @@ Data Science Projects in IPython
 
 #####Best Practices and Tips
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Tips%20for%20Python%20-%20Data%20Science.ipynb" target="_blank">Tips for Python - Data Science</a>
+
+#####Data Analysis with Pandas
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Data%20Analysis%20with%20Pandas.ipynb" target="_blank">Data Analysis with Pandas</a>
+
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Data%20Analysis%20with%20Pandas%20-%20Baby%20Names.ipynb" target="_blank">Analysis of Baby Names in the US</a>
