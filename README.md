@@ -1,6 +1,9 @@
 # datascience-ipython
 Data Science Projects in IPython
 
+#####Basic iPython Notebook, NumPy and Pandas
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/First%20and%20Test.ipynb" target="_blank">Getting Familiar with iPython Notebook, NumPy and Pandas</a>
+
 #####Correlation between cycling and weather using Pandas and Matplotlib Visualization
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Pandas%20and%20Open%20Data.ipynb" target="_blank">Pandas and Open Data</a>
 
