@@ -1,6 +1,9 @@
 # datascience-ipython
 Data Science Projects in IPython
 
+IPython Notebooks
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/tree/master/" target="_blank">NBViewer page</a>
+
 #####Basic iPython Notebook, NumPy and Pandas
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/First%20and%20Test.ipynb" target="_blank">Getting Familiar with iPython Notebook, NumPy and Pandas</a>
 
