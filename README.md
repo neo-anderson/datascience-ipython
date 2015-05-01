@@ -20,5 +20,8 @@ IPython Notebooks
 
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Data%20Analaysis%20with%20Pandas%20-%20ElectionData.ipynb" target="_blank">Analysis of Election Data in the US</a>
 
+#####Other Experiments
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Monte%20Carlo%20Simulations.ipynb" target="_blank">Monte Carlo Simulations</a>
+
 #####Interactive Plotting with Plotly
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Interactive%20plots%20using%20Plotly.ipynb" target="_blank">Plotly Basic Plots</a>
