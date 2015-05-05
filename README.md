@@ -27,6 +27,7 @@ IPython Notebooks
 
 #####Machine Learning
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20Machine%20Learning%20in%20Python.ipynb">Scikit-learn Machine Learning in Python</a>
+
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20GMM.ipynb">Scikit-learn Gaussian Mixture Models</a>
 
 #####Interactive Plotting with Plotly
