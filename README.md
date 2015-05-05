@@ -25,5 +25,9 @@ IPython Notebooks
 
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Data%20Analaysis%20with%20Pandas%20-%20ElectionData.ipynb" target="_blank">Analysis of Election Data in the US</a>
 
+#####Machine Learning
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20Machine%20Learning%20in%20Python.ipynb">Scikit-learn Machine Learning in Python</a>
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20GMM.ipynb">Scikit-learn Gaussian Mixture Models</a>
+
 #####Interactive Plotting with Plotly
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Interactive%20plots%20using%20Plotly.ipynb" target="_blank">Plotly Basic Plots</a>
