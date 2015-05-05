@@ -5,9 +5,9 @@ IPython Notebooks
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/tree/master/" target="_blank">NBViewer page</a>
 
 #####My Tutorials
-<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Numpy%20Arrays%20-%20Tips%20and%20Tricks.ipynb" target="_blank">Numpy Arrays - Tips and Tricks</a>
-
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Monte%20Carlo%20Simulations.ipynb" target="_blank">Monte Carlo Simulations</a>
+
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Numpy%20Arrays%20-%20Tips%20and%20Tricks.ipynb" target="_blank">Numpy Arrays - Tips and Tricks</a>
 
 #####Basic iPython Notebook, NumPy and Pandas
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/First%20and%20Test.ipynb" target="_blank">Getting Familiar with iPython Notebook, NumPy and Pandas</a>
@@ -26,9 +26,9 @@ IPython Notebooks
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Data%20Analaysis%20with%20Pandas%20-%20ElectionData.ipynb" target="_blank">Analysis of Election Data in the US</a>
 
 #####Machine Learning
-<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20Machine%20Learning%20in%20Python.ipynb">Scikit-learn Machine Learning in Python</a>
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20Machine%20Learning%20in%20Python.ipynb" target="_blank">Scikit-learn Machine Learning in Python</a>
 
-<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20GMM.ipynb">Scikit-learn Gaussian Mixture Models</a>
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20GMM.ipynb" target="_blank">Scikit-learn Gaussian Mixture Models</a>
 
 #####Interactive Plotting with Plotly
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Interactive%20plots%20using%20Plotly.ipynb" target="_blank">Plotly Basic Plots</a>
