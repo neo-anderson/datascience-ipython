@@ -30,5 +30,7 @@ IPython Notebooks
 
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20GMM.ipynb" target="_blank">Scikit-learn Gaussian Mixture Models</a>
 
+<a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/scikit-learn%20-%20Clustering.ipynb" target="_blank">Scikit-learn Clustering</a>
+
 #####Interactive Plotting with Plotly
 <a href="http://nbviewer.ipython.org/github/neo-anderson/datascience-ipython/blob/master/Interactive%20plots%20using%20Plotly.ipynb" target="_blank">Plotly Basic Plots</a>
